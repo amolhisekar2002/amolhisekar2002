@@ -1,14 +1,11 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=28&center=true&width=650&lines=Amol+Here;Web+Developer;Java+DSA+Learner)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=26&center=true&vCenter=true&width=650&lines=Hi+I+am+Amol;Java+%7C+Web+Developer;Future+Full+Stack+Engineer)
 # 👋 Hi, I'm Amol  
 💻 **Web Developer | Java Programmer | DSA Learner**  
 🚀 Passionate about building web applications and solving coding problems  
 🌱 Currently learning **Data Structures & Algorithms with Java**  
 📍 India  
 
----
 ![Coding GIF](animated.gif)
-
 
 ## 🧑‍💻 About Me  
 
@@ -17,8 +14,6 @@
 - ☕ Strong interest in Java programming and problem solving  
 - 📚 Currently practicing DSA to improve coding skills  
 - 🌐 Dreaming to become a Full Stack Developer  
-
----
 
 ## 🛠️ Tech Stack  
 
@@ -34,8 +29,6 @@
 - VS Code  
 - Node.js (Learning)  
 
----
-
 ## 📌 Current Goals  
 
 - 🔥 Master Data Structures & Algorithms  
@@ -43,13 +36,11 @@
 - 🧠 Improve problem-solving skills on LeetCode & HackerRank  
 - 💼 Get a job as a Software Developer  
 
----
-
 ## 🔗 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin  
+- 💼 LinkedIn: https://linkedin.com/in/amol-hisekar-500403280  
 - 🌐 Portfolio: https://your-website.com  
-- 🐙 GitHub: https://github.com/yourusername  
+- 🐙 GitHub: https://github.com/amolhisekar2002 
 
 ---
 
