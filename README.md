@@ -1,7 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Amol;Web+Developer;Learning+DSA+with+Java;Future+Full+Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&width=700&lines=AI+%7C+Web+%7C+Java;Learning+DSA;Building+Projects;Future+Software+Engineer)
 
-lines=Hi+I'm+Amol;Web+Developer;Learning+DSA
-
+# 👋 Hi, I'm Amol  
 💻 **Web Developer | Java Programmer | DSA Learner**  
 🚀 Passionate about building web applications and solving coding problems  
 🌱 Currently learning **Data Structures & Algorithms with Java**  
