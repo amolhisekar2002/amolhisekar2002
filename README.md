@@ -8,9 +8,6 @@
 
 ---
 ![Coding GIF](coding.gif)
-<p align="center">
-  <img src="coding.gif" width="400">
-</p>
 
 
 ## 🧑‍💻 About Me  
