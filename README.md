@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Amol;Web+Developer;Learning+DSA+with+Java;Future+Full+Stack+Developer)
 
-# 👋 Hi, I'm Amol  
+lines=Hi+I'm+Amol;Web+Developer;Learning+DSA
 
 💻 **Web Developer | Java Programmer | DSA Learner**  
 🚀 Passionate about building web applications and solving coding problems  
