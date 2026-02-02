@@ -7,7 +7,7 @@
 📍 India  
 
 ---
-![Coding GIF](coding.gif)
+![Coding GIF](animated.gif)
 
 
 ## 🧑‍💻 About Me  
