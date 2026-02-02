@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=25&center=true&width=700&lines=AI+%7C+Web+%7C+Java;Learning+DSA;Building+Projects;Future+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=28&center=true&width=650&lines=Amol+Here;Web+Developer;Java+DSA+Learner)
 
 # 👋 Hi, I'm Amol  
 💻 **Web Developer | Java Programmer | DSA Learner**  
@@ -7,6 +7,8 @@
 📍 India  
 
 ---
+![Coding GIF](images/coding.gif)
+
 
 ## 🧑‍💻 About Me  
 
@@ -58,5 +60,4 @@
 
 ---
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
