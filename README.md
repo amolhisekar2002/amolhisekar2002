@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=26&center=true&vCenter=true&width=650&lines=Hi+I+am+Amol;Java+%7C+Web+Developer;Future+Full+Stack+Engineer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=00C2FF&size=26&center=true&vCenter=true&width=650&lines=Hi+I+am+Amol;Java+%7C+Web+Developer;Full+Stack+Engineer;FrontEnd+Developer;BackEnd+Developer)
 # 👋 Hi, I'm Amol  
 💻 **Web Developer | Java Programmer | DSA Learner**  
 🚀 Passionate about building web applications and solving coding problems  
